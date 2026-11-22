@@ -242,6 +242,12 @@ Auto Test fill-first, the business crew, manager and lead swaps, guns, firing (R
 
 Robert's decision (2026-11-17): from 1.2.77 on, each version moves Auto toward one unified fitness function — an action's value toward the chosen victory minus its costs, in one currency, per crew hour. It will later become a shared module used by Auto and by all rival gangs. Not implemented in 1.2.76; 1.2.77 takes the first step (point 13 below).
 
+## v1.2.92 decisions
+
+Robert's Go (2026-11-22): the repository was renamed to `RobertBoettcherSF/Hood-Simulator`.
+
+1. **Repository name.** The update check and the play link (`src/app/versionCheck.ts`) use `RobertBoettcherSF/Hood-Simulator`. The asset repository keeps its name. No game rule changes.
+
 ## v1.2.91 decisions
 
 Robert's Go (2026-11-20) after the 1.2.90 run on city 1932 / Auto 1932 (won after week 150). Our kill rate held at about 4 a week in weeks 53–104, but the rivals' men came back as fast; the last weeks of each rival were spent on a gang of 1–6 men refilled by free hires and heirs. Point 1 and 2 are report-only and never read by Auto or the gangs; point 3 is Auto, from the chart only. No new constants. The 1.2.90 estimate change, boss/heir rules, ending rules and the score are unchanged.

@@ -1,4 +1,4 @@
-const REPO = 'RobertBoettcherSF/ADA-Hood-Simulator';
+const REPO = 'RobertBoettcherSF/Hood-Simulator';
 
 export const PLAY_URL = `https://raw.githack.com/${REPO}/main/play/index.html`;
 
